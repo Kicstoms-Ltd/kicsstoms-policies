@@ -1,6 +1,6 @@
 ---
 title: Company Processors
-description: Basecamp LLC uses some other third-party processors for company purposes outside of delivering our services.
+description: Kicstoms Sneakers Ltd uses some other third-party processors for company purposes outside of delivering our services.
 ---
 
 # Company processors
@@ -16,9 +16,9 @@ For the following processors, we have established GDPR-compliant data processing
 * [Shopify](https://help.shopify.com/en/manual/your-account/privacy/GDPR). E-commerce platform.
 * [Wufoo](https://help.wufoo.com/articles/en_US/kb/wufoo-gdpr). Form/survey provider.
 
-As a company, we also produce a podcast, host a blog, and run occasional events virtually. If you voluntarily engage with us through those media, your personal information may also be collected by the following processors, also all located in the US:
+<!-- As a company, we also produce a podcast, host a blog, and run occasional events virtually. If you voluntarily engage with us through those media, your personal information may also be collected by the following processors, also all located in the US:
 
 * [Streamyard](https://streamyard.com/resources/docs/privacy/). Livestreaming platform.
 * [Transistor](https://transistor.fm/privacy). Podcast publishing platform.
 * [Twitter](https://gdpr.twitter.com/). Social media platform.
-* [Zencastr](https://zencastr.com/privacy-policy). Podcast recording software.
+* [Zencastr](https://zencastr.com/privacy-policy). Podcast recording software. -->

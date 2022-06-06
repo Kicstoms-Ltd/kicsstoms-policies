@@ -5,7 +5,7 @@ description: The privacy of your data — and it is your data, not ours! — is 
 
 # Privacy policy
 
-*Last updated: June 3, 2022*
+*Last updated: June 6, 2022*
 
 The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights to your data. We promise we never sell your data: never have, never will.
 
@@ -79,7 +79,7 @@ It’s impossible for our apps to try to use a sensitive OS feature without requ
 
 Our default practice is to not access your information. The only times we’ll ever access or share your info are:
 
-**To provide products or services you’ve requested**. We do use some third-party services to run our applications and only to the extent necessary process some or all of your personal information via these third parties. You can view the list of third-party services we use in each product: [Kicstoms](basecamp-subprocessors/index.md), and [Kicstoms Sellers' Lounge](hey-subprocessors/index.md). Having subprocessors means we are using technology to access your data. No Kicstoms human looks at your data for these purposes unless an error occurs that stops an automated process from working and requires manual intervention to fix. These are rare cases and when they happen, we look for root cause solutions as much as possible to avoid them from reoccurring. We also use some other processors for other business functions, which you can view: [Company processors](company-processors/index.md).
+**To provide products or services you’ve requested**. We do use some third-party services to run our applications and only to the extent necessary process some or all of your personal information via these third parties. You can view the list of third-party services we use in each product: [Kicstoms](kicstoms-subprocessors/index.md), and [Kicstoms Sellers' Lounge](kicstoms-sellers-subprocessors/index.md). Having subprocessors means we are using technology to access your data. No Kicstoms human looks at your data for these purposes unless an error occurs that stops an automated process from working and requires manual intervention to fix. These are rare cases and when they happen, we look for root cause solutions as much as possible to avoid them from reoccurring. We also use some other processors for other business functions, which you can view: [Company processors](company-processors/index.md).
 
 <!-- We may also access or share your information if you integrate a third-party service into your use of our products. For example, we may allow you to connect your Gmail account to your HEY account so that you can use HEY to receive and respond to your Google email. Email that you receive and respond to through HEY from your Gmail address will be stored by both HEY and Google and will be available to you from your Gmail account as well as your HEY account. No Basecamp human looks at this data except with your permission or if required in order to respond to legal process (see “When required under applicable law” below). -->
 
@@ -147,6 +147,8 @@ There are also a few ad-hoc cases where EU personal data may be transferred to t
 
 ## Changes & questions
 
-We may update this policy as needed to comply with relevant regulations and reflect any new practices. You can view a history of the changes to our policies since mid-2018 [on GitHub](https://github.com/basecamp/policies/commits/master). Whenever we make a significant change to our policies, we will also announce them on our [company blog](https://m.signalvnoise.com/).
+We may update this policy as needed to comply with relevant regulations and reflect any new practices.
 
-Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your information? Please get in touch by emailing us at [privacy@basecamp.com](mailto:privacy@basecamp.com) and we’ll be happy to answer them!
+<!-- You can view a history of the changes to our policies since mid-2018 [on GitHub](https://github.com/basecamp/policies/commits/master). Whenever we make a significant change to our policies, we will also announce them on our [company blog](https://m.signalvnoise.com/). -->
+
+Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your information? Please get in touch by emailing us at [privacy@kicstoms.com](mailto:privacy@kicstoms.com) and we’ll be happy to answer them!

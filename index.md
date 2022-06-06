@@ -9,14 +9,13 @@ The rough print and the fine print. We try to make all our policies as clear, fa
 
 * [Terms of Service](terms/index.md)
 * [Privacy policy](privacy/index.md)
-* [Privacy Regulations reference](privacy/regulations/index.md)
+<!-- * [Privacy Regulations reference](privacy/regulations/index.md) -->
 * [Cancellation policy](cancellation/index.md)
 * [Refund policy](refund/index.md)
 * [Use Restrictions policy](abuse/index.md)
-* [Security overview](security/index.md)
+<!-- * [Security overview](security/index.md) -->
 * [Until the End of the Internet](until-the-end-of-the-internet/index.md)
-* [Taxes](taxes/index.md)
-* Account ownership information for [Kicstoms](https://2.basecamp-help.com/article/411-account-ownership) and [Kicstoms Sneakers Ltd](ownership-bc3/index.md)
+<!-- * [Taxes](taxes/index.md) -->
 <!-- * [Service Level Agreement (SLA) for Basecamp Big](sla/index.md) -->
 
 > Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)

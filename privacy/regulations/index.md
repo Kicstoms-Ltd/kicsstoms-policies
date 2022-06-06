@@ -5,11 +5,11 @@ description: Privacy laws are in a lot of flux. Here’s info you should know.
 
 # Privacy Regulations Reference
 
-*Last updated: May 19, 2022*
+*Last updated: June 6, 2022*
 
 The data privacy regulatory landscape is undergoing a lot of change. You probably have heard about the EU General Data Protection Regulation (GDPR) that went into effect on May 25, 2018. There are also other regulations in effect or in the works around the world. We’ve written up this reference document to put helpful information regarding our products and privacy regulations in one place. Please also view our full [Privacy policy](../index.md).
 
-If you have any questions, comments, or concerns about our [Privacy policy](../index.md), your data, or your rights with respect to your information, please email us at [privacy@basecamp.com](mailto:privacy@basecamp.com).
+If you have any questions, comments, or concerns about our [Privacy policy](../index.md), your data, or your rights with respect to your information, please email us at [privacy@kicstoms.com](mailto:privacy@kicstoms.com).
 
 ## European Union General Data Protection Regulation (GDPR)
 
@@ -18,9 +18,9 @@ Basecamp is an American company and our data infrastructure is currently based i
 1. The practices that businesses take handling personal data; and
 2. The laws of the countries where you transfer the EU personal data to
 
-### Practices we have at Basecamp
+### Practices we have at Kicstoms
 
-We are serious about treating our customers fairly. We have a [Customer Bill of Rights](https://basecamp.com/rights) and five of the eight rights are about your control of your data, your right to privacy, and the security measures we put in place to protect your data. These rights apply to all of our customers, regardless of where you are in the world.
+We are serious about treating our customers fairly. We have a [Customer Bill of Rights](https://kicstoms.com/rights) and five of the eight rights are about your control of your data, your right to privacy, and the security measures we put in place to protect your data. These rights apply to all of our customers, regardless of where you are in the world.
 
 We’re able to offer this Customer Bill of Rights because of the choices we make as a business. Please do read our [Privacy Policy](../index.md) and our [Security Overview](../../security/index.md) in full. Some highlights:
 
@@ -29,20 +29,20 @@ We’re able to offer this Customer Bill of Rights because of the choices we mak
 * We limit the data we collect: if we don’t need it, we don’t ask for it.
 * We limit the permissions our apps request on your devices.
 * We put a lot of security measures into place including in-transit encryption, encryption at-rest, and requiring employees and contractors to sign non-disclosure agreements.
-* When you email us at [privacy@basecamp.com](mailto:privacy@basecamp.com), someone from our Privacy Working Group will get back to you. You are always speaking with a human! No bots.
+* When you email us at [privacy@kicstoms.com](mailto:privacy@kicstoms.com), someone from our Privacy Working Group will get back to you. You are always speaking with a human! No bots.
 
 We do work with sub-processors. We've listed links to our current sub-processors at the end of this page. With each vendor, we assess their commitment to privacy and we sign a data processing addendum with them that include the controller-processor [Standard Contractual Clauses](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en).
 
 Last but not least, we know privacy regulations are constantly evolving. We root for stronger consumer privacy laws! Several Basecampers are members of the [International Agency of Privacy Professionals](http://iapp.org/) and use IAPP resources alongside legal counsel to stay aware of relevant changes in the regulatory landscape.
 
-### Relevant US laws
+<!-- ### Relevant US laws
 The US does not have a national consumer privacy law akin to GDPR. We’d love to see one put in place and until then, shout out to California for leading with the California Consumer Privacy Act ("CCPA" — more information following this GDPR section) and our spiritual home state of Illinois for its Biometric Information Privacy Act.
 
 There are national US security laws that are relevant to GDPR. Chief amongst them are: the [Foreign Intelligence Surveillance Act (FISA)](https://it.ojp.gov/PrivacyLiberty/authorities/statutes/1286) and Executive Order 12-333. FISA establishes ways for US law enforcement and intelligence agencies to gather information within the US about non-US entities suspected of espionage or terrorism. Executive Order 12-333 sets out how US intelligence agencies can gather information, including outside the borders of the US.
 
-Virtually every American software service is subject to FISA. That includes all the American big tech companies you can think of as well as any European service that uses cloud infrastructure from Amazon Web Services, Microsoft Azure, or Google Cloud Computing. It also includes small tech American companies like us, Basecamp LLC. However **to date, Basecamp has never been served a FISA order or National Security Letter.**
+Virtually every American software service is subject to FISA. That includes all the American big tech companies you can think of as well as any European service that uses cloud infrastructure from Amazon Web Services, Microsoft Azure, or Google Cloud Computing. It also includes small tech American companies like us, Basecamp LLC. However **to date, Basecamp has never been served a FISA order or National Security Letter.** -->
 
-### Data processing addendum
+<!-- ### Data processing addendum
 
 As of October 5, 2020, we have incorporated a Data Processing Addendum (DPA) to our [Terms of Service](../../terms/index.md). As of September 28, 2021, said DPA incorporates the new Standard Contractual Clauses (SCCs) ([2021/914](https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj)) published by the European Commission on 4th of June 2021. You can find the DPA linked within clause 7 of the Uptime, Security and Privacy section. This addendum is in effect when the General Data Protection Regulation applies to your use of Basecamp Services to process Customer Data as defined in the DPA. The DPA includes the most up-to-date European Commission’s Standard Contractual Clauses (both controller-processor and controller-controller) to extend GDPR privacy principles, rights, and obligations everywhere personal data is processed. If you would like to have a signed copy of the DPA for your records, you may [sign a copy online](https://app.hellosign.com/s/c0908a3d). We provide the same privacy rights and protection to all customers, regardless of whether they choose to execute a DPA. 
 
@@ -60,18 +60,15 @@ The CCPA also grants residents of California with additional rights related to t
 
 ## US Health Insurance Portability and Accountability Act (HIPAA)
 
-Our products are currently *not* [HIPAA](https://www.hhs.gov/hipaa/for-professionals/security/laws-regulations/index.html)-compliant and we do not have immediate plans to become so.
+Our products are currently *not* [HIPAA](https://www.hhs.gov/hipaa/for-professionals/security/laws-regulations/index.html)-compliant and we do not have immediate plans to become so. -->
 
 ## Subprocessors
 
-Basecamp uses third party subprocessors, such as cloud computing providers and customer support software, to provide our services. We enter into data processing agreements including GDPR Standard Contractual Clauses with each subprocessor, and require the same of them.
+Kicstoms uses third party subprocessors, such as cloud computing providers and customer support software, to provide our services. We enter into data processing agreements including GDPR Standard Contractual Clauses with each subprocessor, and require the same of them.
 
 You can see which subprocessors we use by application by viewing the following linked lists:
 
-* [Basecamp subprocessors](../basecamp-subprocessors/index.md)
-* [HEY subprocessors](../hey-subprocessors/index.md)
-* [Highrise subprocessors](../highrise-subprocessors/index.md)
-* [Campfire subprocessors](../campfire-subprocessors/index.md)
-* [Backpack subprocessors](../backpack-subprocessors/index.md)
+* [Kicstoms subprocessors](../kicstoms-subprocessors/index.md)
+* [Kicstoms Sellers' Lounge subprocessors](../kicstoms-sellers-subprocessors/index.md)
 
 We also use other software as a company that are not part of providing our services but may collect your personal information for other purposes. You can view this list of processors in the following page: [Company processors](../company-processors/index.md)

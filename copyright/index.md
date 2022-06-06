@@ -1,15 +1,15 @@
 ---
 title: Copy that?
-description: How Basecamp handles copyright infringement claims.
+description: How Kicstoms handles copyright infringement claims.
 ---
 
 # Copyright Infringement Claims
 
 ## Notification of Copyright Infringement Claims
 
-Making original work is hard! As described in our [Use Restrictions policy](../abuse/index.md), you can’t use Basecamp products* to make or disseminate work that uses the intellectual property of others beyond the bounds of [fair use](https://www.copyright.gov/fair-use/more-info.html).
+Making original work is hard! As described in our [Use Restrictions policy](../abuse/index.md), you can’t use Kicstoms products* to make or disseminate work that uses the intellectual property of others beyond the bounds of [fair use](https://www.copyright.gov/fair-use/more-info.html).
 
-Are you a copyright owner? Under the Digital Millennium Copyright Act (17 U.S.C. § 512), you have the right to notify us (Basecamp, LLC) if you believe that an account user of any product we built and maintain has infringed on your work(s) as copyright owner. To be effective, the notification of claimed infringement must be written. Please include the following information:
+Are you a copyright owner? Under the Digital Millennium Copyright Act (17 U.S.C. § 512), you have the right to notify us (Kicstoms Sneakers Ltd) if you believe that an account user of any product we built and maintain has infringed on your work(s) as copyright owner. To be effective, the notification of claimed infringement must be written. Please include the following information:
 
 - A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 - Identification of the copyrighted work(s) claimed to have been infringed. If there are multiple, please share a representative list of those works.
@@ -34,11 +34,9 @@ On the flip-side, if you believe your material has been removed in error, you ca
 
 You can notify us of either copyright infringement claims or DCMA counter-notifications through either of the following channels:
 
-**By email**: [report@basecamp.com](mailto:report@basecamp.com)
+**By email**: [report@kicstoms.com](mailto:report@kicstoms.com)
 
-**By mail**: Basecamp, LLC
-2045 W Grand Ave Ste B, PMB 53289
-ATTN: David H. Hansson
-Chicago, IL 60612 USA
+**By mail**: Kicstoms Sneakers Ltd
+P.O.BOX 11209, G.P.O. Nairobi
 
-**This policy and process applies to any product created and owned by Basecamp, LLC. That includes Basecamp (any version), HEY, Highrise, Campfire, Backpack, Writeboard, and Ta-da List.*
+**This policy and process applies to any product created and owned by Kicstoms Sneakers Ltd. That includes Kicstoms (any version), and Kicstoms Sellers' Lounge.*
