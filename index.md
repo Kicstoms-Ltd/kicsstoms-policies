@@ -18,3 +18,5 @@ The rough print and the fine print. We try to make all our policies as clear, fa
 * [Taxes](taxes/index.md)
 * Account ownership information for [Kicstoms](https://2.basecamp-help.com/article/411-account-ownership) and [Kicstoms Sneakers Ltd](ownership-bc3/index.md)
 <!-- * [Service Level Agreement (SLA) for Basecamp Big](sla/index.md) -->
+
+> Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
