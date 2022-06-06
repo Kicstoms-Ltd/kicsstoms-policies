@@ -5,11 +5,13 @@ description: The privacy of your data — and it is your data, not ours! — is 
 
 # Privacy policy
 
-*Last updated: May 19, 2022*
+*Last updated: June 3, 2022*
 
 The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights to your data. We promise we never sell your data: never have, never will.
 
-This policy applies to all products built and maintained by Basecamp LLC including Basecamp (all versions), HEY, Highrise, Campfire, Backpack, Ta-da List, and Writeboard. For candidates applying to jobs at Basecamp LLC, please review our [Recruitment Privacy policy](recruitment/index.md).
+This policy applies to all products built and maintained by Kicstoms Sneakers Ltd including Kicstoms (all versions), and Kicstoms Sneakers Ltd.
+
+<!-- For candidates applying to jobs at Basecamp LLC, please review our [Recruitment Privacy policy](recruitment/index.md). -->
 
 ## What we collect and why
 
@@ -17,17 +19,19 @@ Our guiding principle is to collect only what we need. Here’s what that means 
 
 ### Identity & access
 
-When you sign up for a Basecamp product, we typically ask for identifying information such as your name, email address, and maybe a company name. That’s just so you can personalize your new account, and we can send you invoices, updates, or other essential information. We sometimes also give you the option to add a profile picture that displays in our products, but we do not normally look at or access that picture. We’ll never sell your personal info to third parties, and we won’t use your name or company in marketing statements without your permission either.
+When you sign up for a Kicstoms product, we typically ask for identifying information such as your name, email address, phone number and maybe a company name. That’s just so you can personalize your new account, and we can send you invoices, updates, or other essential information. We’ll never sell your personal info to third parties, and we won’t use your name or company in marketing statements without your permission either.
 
 ### Billing information
 
-When you pay for a Basecamp product, we ask for your credit card and billing address. That’s so we can charge you for service, calculate taxes due, and send you invoices. Your credit card is passed directly to our payment processor and doesn’t ever go through our servers. We store a record of the payment transaction, including the last 4 digits of the credit card number and as-of billing address, for account history, invoicing, and billing support. We store your billing address to calculate any sales tax due in the United States or VAT in the EU, to detect fraudulent credit card transactions, and to print on your invoices.
+When you pay for a product through a Kicstoms product, we ask for your credit card and billing address. That’s so we can charge you for service, calculate taxes due, and send you invoices. Your credit card is passed directly to our payment processor and doesn’t ever go through our servers. We store a record of the payment transaction, including the last 4 digits of the credit card number and as-of billing address, for account history, invoicing, and billing support. We store your billing address to facilitate future purchases and account maintenance, to detect fraudulent credit card transactions, and to print on your invoices.
 
 ### Geolocation data
 
 We log all access to all accounts by full IP address so that we can always verify no unauthorized access has happened. We keep this login data for as long as your product account is active.
 
-We also log full IP addresses used to sign up a product account. We keep this record forever for all our apps except for HEY, because they are used to mitigate spammy signups. For HEY, we keep the IP addresses used to sign up for a product account until the account is deleted from our servers. 
+We also log full IP addresses used to sign up a product account. We keep this record forever for all our apps, because they are used to mitigate spammy signups.
+
+We also collect geolocation data, example city and town so as to facilitate functionality related to shipping costs calculations
 
 Web analytics data — described further in the Website Interactions section — are also tied temporarily to IP addresses to assist with troubleshooting cases. We blind all web analytics data after 30 days.
 
@@ -35,15 +39,15 @@ Web analytics data — described further in the Website Interactions section —
 
 When you browse our marketing pages or applications, your browser automatically shares certain information such as which operating system and browser version you are using. We track that information, along with the pages you are visiting, page load timing, and which website referred you for statistical purposes like conversion rates and to test new designs. We sometimes track specific link clicks to help inform some design decisions. These web analytics data are tied to your IP address and user account if applicable and you are signed into our Services. We blind all of these individual identifiers after 30 days. Other web analytics we utilize are described further in the Cookies and Do Not Track section.
 
-### Anti-bot assessments
+<!-- ### Anti-bot assessments
 
-We use [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) services across our applications to mitigate brute force logins and in HEY as a means of spam protection. We have a legitimate interest in protecting our apps and the broader Internet community from credential stuffing attacks and spam. When you log into your accounts and fill specific forms in HEY, the CAPTCHA service evaluates various information (e.g IP address, how long the visitor has been on the app, mouse movements) to check whether the data is possibly filled out by an automated program instead of a human. We retain these data via our subprocessor forever because they are used for anti-spam mitigation.
+We use [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) services across our applications to mitigate brute force logins and in HEY as a means of spam protection. We have a legitimate interest in protecting our apps and the broader Internet community from credential stuffing attacks and spam. When you log into your accounts and fill specific forms in HEY, the CAPTCHA service evaluates various information (e.g IP address, how long the visitor has been on the app, mouse movements) to check whether the data is possibly filled out by an automated program instead of a human. We retain these data via our subprocessor forever because they are used for anti-spam mitigation. -->
 
 ### Cookies and Do Not Track
 
-We do use persistent first-party cookies to store certain preferences, make it easier for you to use our applications, and support some in-house analytics. 
+We do use persistent first-party cookies to store certain preferences, make it easier for you to use our applications, and support some in-house analytics.
 
-We partner with Google for some marketing activities. If you are coming to Basecamp from a Google ad, and are in the United States, Google will send a cookie to your browser to determine whether you visited Basecamp.com because of a particular advertisement you viewed. This enables us to evaluate the effectiveness of these ads.
+<!-- We partner with Google for some marketing activities. If you are coming to Kicstoms from a Google ad, and are in the United States, Google will send a cookie to your browser to determine whether you visited Basecamp.com because of a particular advertisement you viewed. This enables us to evaluate the effectiveness of these ads. -->
 
 A cookie is a piece of text stored by your browser. It may help remember login information and site preferences. It might also collect information such as your browser type, operating system, web pages visited, duration of visit, content viewed, and other click-stream data. You can adjust cookie retention settings in your own browser. To learn more about cookies, including how to view which cookies have been set and how to manage and delete them, please visit: [www.allaboutcookies.org](https://www.allaboutcookies.org).
 
@@ -51,7 +55,7 @@ At this time, our sites and applications do not respond to Do Not Track beacons 
 
 ### Voluntary correspondence
 
-When you write Basecamp with a question or to ask for help, we keep that correspondence, including the email address, so that we have a history of past correspondences to reference if you reach out in the future.
+When you write Kicstoms with a question or to ask for help, we keep that correspondence, including the email address, so that we have a history of past correspondences to reference if you reach out in the future.
 
 We also store any information you volunteer like surveys. Sometimes when we do customer interviews, we may ask for your permission to record the conversation for future reference or use. We only do so if you give your express consent.
 
@@ -59,9 +63,9 @@ We also store any information you volunteer like surveys. Sometimes when we do c
 
 We don’t collect any characteristics of protected classifications including age, race, gender, religion, sexual orientation, gender identity, gender expression, or physical and mental abilities or disabilities. You may provide these data voluntarily, such as if you include a pronoun preference in your email signature when writing into our Support team.
 
-We also do not collect any biometric data. You are given the option to add a picture to your user profile, which could be a real picture of you or a picture of something else that represents you best. We do not extract any information from profile pictures: they are for your use alone.
+We also do not collect any biometric data.
 
-### How we approach mobile app permissions
+<!-- ### How we approach mobile app permissions
 
 We offer optional mobile apps for Basecamp and HEY. Our philosophy is to ask for the bare minimum of permissions from you to give you a great app experience with maximum privacy. By default, we have access to the network to ensure the app can connect to and communicate with the Internet. In most cases, we ask for permission just-in-time so that you can decide if you want to grant access to things like contacts, camera, and calendar. A few exceptions:
 
@@ -69,15 +73,15 @@ We offer optional mobile apps for Basecamp and HEY. Our philosophy is to ask for
 * Android apps do not require permission to send push notifications.
 * For our Basecamp 2 app on Android 5, the OS will prompt for permission upon installation to read and write to your device files so that you can select attachments from your device to upload and download files from our apps to your device.
 
-It’s impossible for our apps to try to use a sensitive OS feature without requesting access explicitly from you, so you’ll always know exactly when and what we’re requesting. You will never be required to grant any permission (although a given feature may not work or work well without it).
+It’s impossible for our apps to try to use a sensitive OS feature without requesting access explicitly from you, so you’ll always know exactly when and what we’re requesting. You will never be required to grant any permission (although a given feature may not work or work well without it). -->
 
 ## When we access or share your information
 
 Our default practice is to not access your information. The only times we’ll ever access or share your info are:
 
-**To provide products or services you’ve requested**. We do use some third-party services to run our applications and only to the extent necessary process some or all of your personal information via these third parties. You can view the list of third-party services we use in each product: [Basecamp](basecamp-subprocessors/index.md), [HEY](hey-subprocessors/index.md), [Highrise](highrise-subprocessors/index.md), [Campfire](campfire-subprocessors/index.md), [Backpack](backpack-subprocessors/index.md). Having subprocessors means we are using technology to access your data. No Basecamp human looks at your data for these purposes unless an error occurs that stops an automated process from working and requires manual intervention to fix. These are rare cases and when they happen, we look for root cause solutions as much as possible to avoid them from reoccurring. We also use some other processors for other business functions, which you can view: [Company processors](company-processors/index.md).
+**To provide products or services you’ve requested**. We do use some third-party services to run our applications and only to the extent necessary process some or all of your personal information via these third parties. You can view the list of third-party services we use in each product: [Kicstoms](basecamp-subprocessors/index.md), and [Kicstoms Sellers' Lounge](hey-subprocessors/index.md). Having subprocessors means we are using technology to access your data. No Kicstoms human looks at your data for these purposes unless an error occurs that stops an automated process from working and requires manual intervention to fix. These are rare cases and when they happen, we look for root cause solutions as much as possible to avoid them from reoccurring. We also use some other processors for other business functions, which you can view: [Company processors](company-processors/index.md).
 
-We may also access or share your information if you integrate a third-party service into your use of our products. For example, we may allow you to connect your Gmail account to your HEY account so that you can use HEY to receive and respond to your Google email. Email that you receive and respond to through HEY from your Gmail address will be stored by both HEY and Google and will be available to you from your Gmail account as well as your HEY account. No Basecamp human looks at this data except with your permission or if required in order to respond to legal process (see “When required under applicable law” below).
+<!-- We may also access or share your information if you integrate a third-party service into your use of our products. For example, we may allow you to connect your Gmail account to your HEY account so that you can use HEY to receive and respond to your Google email. Email that you receive and respond to through HEY from your Gmail address will be stored by both HEY and Google and will be available to you from your Gmail account as well as your HEY account. No Basecamp human looks at this data except with your permission or if required in order to respond to legal process (see “When required under applicable law” below). -->
 
 **To help you troubleshoot or squash a software bug, with your permission.** If at any point we need to access your account to help you with a Support case, we will ask for your consent before proceeding.
 
@@ -85,24 +89,26 @@ We may also access or share your information if you integrate a third-party serv
 
 **When required under applicable law.**
 
-Basecamp, LLC is a US company and all data infrastructure are located in the US.
+<!-- Basecamp, LLC is a US company and all data infrastructure are located in the US.
 
 * If US law enforcement authorities have the necessary warrant, criminal subpoena, or court order requiring we share data, we have to comply. Otherwise, we flat-out reject requests from local and federal law enforcement when they seek data. And unless we’re legally prevented from it, we’ll always inform you when such requests are made. In the event a government authority outside the US approaches Basecamp with a request, our default stance is to refuse unless the US government compels us to comply through procedures outlined in a mutual legal assistance treaty or agreement. ***We have never received a National Security Letter or Foreign Intelligence Surveillance Act (FISA) order.***
-* Similarly, if Basecamp receives a request to preserve data, we refuse unless compelled by either the US Federal Stored Communications Act, 18 U.S.C. Section 2703(f) or a properly served US subpoena for civil matters. In both of these situations, we have to comply. In these situations, we notify affected customers as soon as possible unless we are legally prohibited from doing so. We do not share preserved data unless absolutely required under the Stored Communications Act or compelled by a court order that we choose not to appeal. Furthermore, unless we receive a proper warrant, court order, or subpoena before the required preservation period expires, we destroy any preserved copies we made of customer data once the preservation period lapses.
-* If we get an informal request from any person, organization, or entity, we do not assist. If you are an account owner who wants to export data from their accounts, you can do so directly by following these instructions for [HEY](https://hey.com/faqs/#if-i-don-t-like-hey-can-i-export-my-email-and-contacts), [Basecamp 3](https://3.basecamp-help.com/article/150-export-your-basecamp-data), [Basecamp 2](https://2.basecamp-help.com/article/247-exporting-account-data), [Basecamp Classic](https://classic.basecamp-help.com/article/524-exports), [Highrise](https://support.highrise-help.com/category/314-imports-exports), [Campfire](https://support.campfire-help.com/article/146-how-do-i-export-cancel-my-account), and [Backpack](https://support.backpack-help.com/article/289-can-i-export-my-data-out-of-backpack).
+* Similarly, if Basecamp receives a request to preserve data, we refuse unless compelled by either the US Federal Stored Communications Act, 18 U.S.C. Section 2703(f) or a properly served US subpoena for civil matters. In both of these situations, we have to comply. In these situations, we notify affected customers as soon as possible unless we are legally prohibited from doing so. We do not share preserved data unless absolutely required under the Stored Communications Act or compelled by a court order that we choose not to appeal. Furthermore, unless we receive a proper warrant, court order, or subpoena before the required preservation period expires, we destroy any preserved copies we made of customer data once the preservation period lapses. -->
+<!-- * If we get an informal request from any person, organization, or entity, we do not assist. If you are an account owner who wants to export data from their accounts, you can do so directly by following these instructions for [HEY](https://hey.com/faqs/#if-i-don-t-like-hey-can-i-export-my-email-and-contacts), [Basecamp 3](https://3.basecamp-help.com/article/150-export-your-basecamp-data), [Basecamp 2](https://2.basecamp-help.com/article/247-exporting-account-data), [Basecamp Classic](https://classic.basecamp-help.com/article/524-exports), [Highrise](https://support.highrise-help.com/category/314-imports-exports), [Campfire](https://support.campfire-help.com/article/146-how-do-i-export-cancel-my-account), and [Backpack](https://support.backpack-help.com/article/289-can-i-export-my-data-out-of-backpack). -->
 * If we are audited by a tax authority, we may be required to share billing-related information. If that happens, we only share the bare minimum needed such as billing addresses and tax exemption information.
 
-Finally, if Basecamp, LLC is acquired by or merged with another company — we don’t plan on that, but if it happens — we’ll notify you well before any info about you is transferred and becomes subject to a different privacy policy.
+Finally, if Kicstoms Sneakers Ltd is acquired by or merged with another company — we don’t plan on that, but if it happens — we’ll notify you well before any info about you is transferred and becomes subject to a different privacy policy.
 
 ## Your rights with respect to your information
 
-At Basecamp, we apply the same data rights to all customers, regardless of their location. Currently some of the most privacy-forward regulations in place are the European Union’s General Data Protection Regulation (“GDPR”) and California Consumer Privacy Act (“CCPA”) in the US. Basecamp recognizes all of the rights granted in these regulations, except as limited by applicable law. These rights include:
+At Kicstoms, we apply the same data rights to all customers. These rights include:
+
+<!-- regardless of their location. Currently some of the most privacy-forward regulations in place are the European Union’s General Data Protection Regulation (“GDPR”) and California Consumer Privacy Act (“CCPA”) in the US. Basecamp recognizes all of the rights granted in these regulations, except as limited by applicable law. These rights include: -->
 
 * **Right to Know.** You have the right to know what personal information is collected, used, shared or sold. We outline both the categories and specific bits of data we collect, as well as how they are used, in this privacy policy.
 * **Right of Access.** This includes your right to access the personal information we gather about you, and your right to obtain information about the sharing, storage, security and processing of that information.
 * **Right to Correction.** You have the right to request correction of your personal information.
-* **Right to Erasure / “To be Forgotten”.** This is your right to request, subject to certain limitations under applicable law, that your personal information be erased from our possession and, by extension, all of our service providers. Fulfillment of some data deletion requests may prevent you from using Basecamp services because our applications may then no longer work. In such cases, a data deletion request may result in closing your account.
-* **Right to Complain.** You have the right to make a complaint regarding our handling of your personal information with the appropriate supervisory authority. To identify your specific authority or find out more about this right, EU individuals should go to [https://edpb.europa.eu/about-edpb/board/members_en](https://edpb.europa.eu/about-edpb/board/members_en).
+* **Right to Erasure / “To be Forgotten”.** This is your right to request, subject to certain limitations under applicable law, that your personal information be erased from our possession and, by extension, all of our service providers. Fulfillment of some data deletion requests may prevent you from using Kicstoms services because our applications may then no longer work. In such cases, a data deletion request may result in closing your account.
+* **Right to Complain.** You have the right to make a complaint regarding our handling of your personal information with the appropriate supervisory authority.
 * **Right to Restrict Processing.** This is your right to request restriction of how and why your personal information is used or processed, including opting out of sale of personal information. (Again: we never have and never will sell your personal data.)
 * **Right to Object.** You have the right, in certain situations, to object to how or why your personal information is processed.
 * **Right to Portability.** You have the right to receive the personal information we have about you and the right to transmit it to another party.
@@ -111,17 +117,15 @@ At Basecamp, we apply the same data rights to all customers, regardless of their
 
 Many of these rights can be exercised by signing in and directly updating your account information.
 
-If you have questions about exercising these rights or need assistance, please contact us at [privacy@basecamp.com](mailto:privacy@basecamp.com) or at Basecamp, LLC, 2045 W Grand Ave Ste B, PMB 53289, Chicago, IL 60612 USA. For requests to delete personal information or know what personal information has been collected, we will first verify your identity using a combination of at least two pieces of information already collected including your user email address. If an authorized agent is corresponding on your behalf, we will first need written consent with a signature from the account holder before proceeding.
-
-If you are in the EU, you can identify your specific authority to file a complaint or find out more about GDPR, at [https://edpb.europa.eu/about-edpb/board/members_en](https://edpb.europa.eu/about-edpb/board/members_en).
+If you have questions about exercising these rights or need assistance, please contact us at [support@kicstoms.com](mailto:support@kicstoms.com). For requests to delete personal information or know what personal information has been collected, we will first verify your identity using a combination of at least two pieces of information already collected including your user email address. If an authorized agent is corresponding on your behalf, we will first need written consent with a signature from the account holder before proceeding.
 
 ## How we secure your data
 
 All data is encrypted via [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) when transmitted from our servers to your browser. The database backups are also encrypted.
 
-For products except HEY, most data are not encrypted while they live in our database (since it needs to be ready to send to you when you need it), but we go to great lengths to secure your data at rest. For more information about how we keep your information secure, please review our [security overview](../security/index.md).
+<!-- For products except HEY, most data are not encrypted while they live in our database (since it needs to be ready to send to you when you need it), but we go to great lengths to secure your data at rest. For more information about how we keep your information secure, please review our [security overview](../security/index.md).
 
-With HEY, the security overview still applies _and_ we’ve gone even further by encrypting the database at-work. Every field containing personal data is encrypted with its own key. The disks storing the data keys are encrypted as well. Our servers decrypt the data to send it to you when you need it. You can learn more about our approach towards security with HEY at [https://hey.com/security/](https://hey.com/security/).
+With HEY, the security overview still applies _and_ we’ve gone even further by encrypting the database at-work. Every field containing personal data is encrypted with its own key. The disks storing the data keys are encrypted as well. Our servers decrypt the data to send it to you when you need it. You can learn more about our approach towards security with HEY at [https://hey.com/security/](https://hey.com/security/). -->
 
 ## What happens when you delete data in your product accounts
 
@@ -129,7 +133,7 @@ In many of our applications, we give you the option to trash data. Anything you 
 
 We also delete your data after an account is cancelled. In this case, there is no period of data being kept in an accessible trash can so your data are purged within 60 days. This applies both for cases when an account owner directly cancels and for auto-cancelled accounts. Please refer to our [Cancellation policy](../cancellation/index.md) for more details.
 
-## Location of site and data
+<!-- ## Location of site and data
 
 Our products and other web properties are operated in the United States. If you are located in the European Union or elsewhere outside of the United States, **please be aware that any information you provide to us will be transferred to and stored in the United States**. By using our Site, participating in any of our services and/or providing us with your information, you consent to this transfer.
 
@@ -139,7 +143,7 @@ The GDPR requires that any data transferred out of the EU must be treated with t
 
 We have incorporated a Data Processing Addendum to our [Terms of Service](../terms/index.md) that is in effect when the GDPR applies to your use of Basecamp Services to process Customer Data as defined in the DPA. You can find the DPA linked within clause 7 of the Uptime, Security and Privacy section. The DPA includes the European Commission’s Standard Contractual Clauses (both controller-processor and controller-controller) to extend GDPR privacy principles, rights, and obligations everywhere personal data is processed. The DPA is extensive so to aid our customers, we have provided both a summary of what they mean and how Basecamp, LLC upholds our responsibilities in our [Privacy Regulation Reference](regulations/index.md). If you prefer to have an executed copy of the Data Processing Addendum, you may [sign a copy online](https://app.hellosign.com/s/c0908a3d). Regardless of whether you execute or not, we protect and secure your data to the high standards set out in the addendum.
 
-There are also a few ad-hoc cases where EU personal data may be transferred to the US related to Basecamp, LLC operations. For instance, if someone in the US comments on our company blog or a customer participates in one of our infrequent surveys or someone applies to one of our open positions or buys swag on our company shop. Such transfers are only occasional and transferred under the [Article 49(1)(b) derogation](https://gdpr-info.eu/art-49-gdpr/) under GDPR.
+There are also a few ad-hoc cases where EU personal data may be transferred to the US related to Basecamp, LLC operations. For instance, if someone in the US comments on our company blog or a customer participates in one of our infrequent surveys or someone applies to one of our open positions or buys swag on our company shop. Such transfers are only occasional and transferred under the [Article 49(1)(b) derogation](https://gdpr-info.eu/art-49-gdpr/) under GDPR. -->
 
 ## Changes & questions
 
